@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="database" uuid="228c3d0c-6046-4c6b-90ef-b2d4077d8c91">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\corey\Downloads\Student-Record-Maintainer-In-PyQT5-master\Student Record Maintainer In Pyqt5\database.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="database [2]" uuid="709e8f2b-0d2d-4201-aa07-26abd6f110e0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\corey\PycharmProjects\PasswordManager\PasswordManagerPyQt5\database.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
