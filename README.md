@@ -7,7 +7,7 @@ Requriements:
 
 3.PyQt Designer
 
-
+Corey Urbanke
 
 
 
